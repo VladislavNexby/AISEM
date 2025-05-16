@@ -21,7 +21,7 @@
 
 <p align="center">
   <img src="./pictures/1.png" alt="Сегментация 1" width="45%"/>
-  <img src="./pictures/2.png" alt="Сегментация 2" width="45%"/>
+  <img src="./pictures/2.png" alt="Сегментация 2" width="40%"/>
 </p>
 
 ---
