@@ -20,8 +20,8 @@
 *(Пример изображения ниже)*
 
 <p align="center">
-  <img src="./pictures/1.png" alt="Сегментация 1" width="35%"/>
-  <img src="./pictures/2.png" alt="Сегментация 2" width="33%"/>
+  <img src="./pictures/1.png" alt="Сегментация 1" width="30%"/>
+  <img src="./pictures/2.png" alt="Сегментация 2" width="28%"/>
 </p>
 
 ---
