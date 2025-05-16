@@ -39,8 +39,8 @@
 **Визуализация результатов:**
 
 <p align="center">
-  <img src="./pictures/3.png" alt="Сегментация 1" width="30%"/>
-  <img src="./pictures/4.png" alt="Сегментация 2" width="29%"/>
+  <img src="./pictures/3.png" alt="Сегментация 1" width="40%"/>
+  <img src="./pictures/4.png" alt="Сегментация 2" width="40%"/>
 </p>
 
 ---
